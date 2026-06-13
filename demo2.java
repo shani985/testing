@@ -16,4 +16,8 @@ hii working again developer
 =======
 hii working is developer
 >>>>>>> 8d27bd488cb9117b33144d48f2bc9af2caa59b84
+<<<<<<< HEAD
 hello architect
+=======
+hello developer for use work urase
+>>>>>>> 398a4e185d8e559c8406a3ac8b114604b5fbeddb
