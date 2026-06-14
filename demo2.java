@@ -21,4 +21,8 @@ hello architect
 =======
 hello developer for use work urase
 >>>>>>> 398a4e185d8e559c8406a3ac8b114604b5fbeddb
+<<<<<<< HEAD
  dsndfnfsdm dndnvbn   djbvbdb 
+=======
+again access the file architech
+>>>>>>> 0dd8652b67c8fbb4abced7028475e142b14c392a
